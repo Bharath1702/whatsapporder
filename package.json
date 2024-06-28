@@ -1,0 +1,26 @@
+{
+  "name": "whatsappbotforgithub",
+  "version": "1.0.0",
+  "description": "this is a whatsapp bot created by brackets developer ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Bharath1702/whatsapporder.git"
+  },
+  "author": "Bharath (Brackets Developer)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bharath1702/whatsapporder/issues"
+  },
+  "homepage": "https://github.com/Bharath1702/whatsapporder#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
